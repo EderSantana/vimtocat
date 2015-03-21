@@ -1,3 +1,3 @@
 # vimtocat
 Wait for it! We are working on this...  
-<img src="https://octodex.github.com/images/pythocat.png">
+![pythocat](https://octodex.github.com/images/pythocat.png)
